@@ -1,0 +1,2 @@
+2026-02-21 22:43:50,525 - bot.client - INFO - Initializing Mock Binance Client
+2026-02-21 22:44:22,088 - bot.client - INFO - Order placed: {'orderId': 1001, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'executedQty': '0.001', 'avgPrice': '50044.29913279253', 'price': None, 'origQty': '0.001', 'side': 'BUY', 'type': 'MARKET'}
